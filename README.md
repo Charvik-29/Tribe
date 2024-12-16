@@ -10,7 +10,7 @@ it has like comment features that you will find in all social media websites.
 you can either clone this repository or download the raw code
 
 ```bash
-git clone https://github.com/rickx-x/Tribe.git
+github.com/Charvik-29/Tribe.git
 ```
 after this you can do this in your terminal
 ```bash
